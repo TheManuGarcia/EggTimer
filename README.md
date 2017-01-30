@@ -8,3 +8,4 @@ Small egg timer Android project built using the following technologies:
 - Android Studio
 - Genymotion
 
+<img src="https://github.com/TheManuGarcia/EggTimer/blob/master/EggTimerScreenshot.png"/>
